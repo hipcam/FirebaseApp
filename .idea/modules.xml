@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FirebaseApp.iml" filepath="$PROJECT_DIR$/FirebaseApp.iml" />
-      <module fileurl="file://D:\ALUMNO\ServicioFireBaseApp\FirebaseApp\FirebaseApp.iml" filepath="D:\ALUMNO\ServicioFireBaseApp\FirebaseApp\FirebaseApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://D:\ALUMNO\ServicioFireBaseApp\FirebaseApp\app\app.iml" filepath="D:\ALUMNO\ServicioFireBaseApp\FirebaseApp\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../ServicioFireBaseApp/FirebaseApp/FirebaseApp.iml" filepath="$PROJECT_DIR$/../../ServicioFireBaseApp/FirebaseApp/FirebaseApp.iml" />
+      <module fileurl="file://D:\ALUMNO\FirebaseApp\FirebaseApp\FirebaseApp.iml" filepath="D:\ALUMNO\FirebaseApp\FirebaseApp\FirebaseApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../ServicioFireBaseApp/FirebaseApp/app/app.iml" filepath="$PROJECT_DIR$/../../ServicioFireBaseApp/FirebaseApp/app/app.iml" />
+      <module fileurl="file://D:\ALUMNO\FirebaseApp\FirebaseApp\app\app.iml" filepath="D:\ALUMNO\FirebaseApp\FirebaseApp\app\app.iml" />
     </modules>
   </component>
 </project>
